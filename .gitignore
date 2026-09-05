@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+.env/
+Screenshot from 2026-08-26 19-08-04.png
